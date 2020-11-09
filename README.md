@@ -13,6 +13,6 @@ We will start by classifying a subset of the dataset linked above using outputs 
 ## Colaborators
 
 * [Sheil Kumar](https://github.com/SheilKumar)
-* [Sandhya Sivakumar]()
-* [Michael Chen]()
+* [Sandhya Sivakumar](https://github.com/ssivak3)
+* [Michael Chen](https://github.com/mc578)
  
