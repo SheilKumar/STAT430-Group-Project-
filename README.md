@@ -1,4 +1,4 @@
-# STAT430-Group-Project-
+# STAT430 Group Project
 
 Sound Processing with Neural Networks and the FMA dataset. 
 
